@@ -42,6 +42,9 @@ contract HelloWorld {
         People memory newPerson = People({name: _name, age: _age});
         people.push(newPerson);
     }
+
+    // calldata和momory意味着变量只是暂时存在，但calldata是不能被修改，memory能修改
+    // storage是可以被修改的永久变量
 }
 ```
 
