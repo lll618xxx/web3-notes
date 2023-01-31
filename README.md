@@ -4,7 +4,9 @@
 
 - [区块链，为什么学习Web3要了解区块链？](https://github.com/lll618xxx/web3-notes/blob/master/blockChain/main.md)
 
-- [基于以太坊的智能合约开发](https://github.com/lll618xxx/web3-notes/blob/master/smartContract/main.md)
+- [基于以太坊的智能合约开发，HelloWorld版](https://github.com/lll618xxx/web3-notes/blob/master/smartContract/main.md)
+
+- [合约之间的交互](https://github.com/lll618xxx/web3-notes/blob/master/contractInteract/main.md)
 
 ### 3个发展方向
 
