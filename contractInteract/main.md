@@ -2,4 +2,4 @@
 
 合约能够互相调用彼此的方法  
 
-参考Factory.sol
+参考<code>Factory.sol</code>
