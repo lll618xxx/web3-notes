@@ -4,7 +4,8 @@ pragma solidity ^0.8.7;
 contract Simple {
     uint256 public num;
 
-    function setNum(uint256 _num) public {
+    // virtual修饰符使得这个函数能被重写，用于继承
+    function setNum(uint256 _num) public virtual {
         num = _num;
     }
 
