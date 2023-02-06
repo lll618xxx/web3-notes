@@ -10,6 +10,10 @@
 
 - [基金资金的合约](https://github.com/lll618xxx/web3-notes/blob/master/contractInteract/main.md)
 
+- [solidity基础](https://github.com/lll618xxx/web3-notes/blob/master/solidityBase/main.md)
+
+- [web3简单的项目](https://github.com/lll618xxx/web3-notes/blob/master/web3Simple/main.md)
+
 - [测试币的获取](https://github.com/lll618xxx/web3-notes/blob/master/wallet/METAMASK.md)
 
 ### 3个发展方向

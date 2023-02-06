@@ -6,7 +6,7 @@ Remix是以太坊官方推荐的智能合约开发IDE，可以在浏览器中快
 
 ### HelloWorld，Solidity是智能合约的主流编程语言
 
-```js
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7; // 约定solidity的版本，^是指包含以及更高
 // pragma solidity >=0.8.7 <0.9.9; // 区间版本
