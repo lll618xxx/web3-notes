@@ -40,7 +40,21 @@ content: [
 
 ## smart_contract构建
 
+### 推荐安装依赖的node版本 12.18.1
+
 ### npx hardhat
 
-### npx hardhat run scripts/deploy.js --network goerli
+### 生成abi
+
+```
+npx hardhat compile
+```
+
+在 <code>artifacts</code> 查看结果
+
+### 本地部署合约
+
+```
+npx hardhat run scripts/deploy.js --network goerli
+```
 
