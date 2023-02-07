@@ -6,14 +6,8 @@
 npm i 
 ```
 
-### 编译得到abi
+### 编译
 
 ```
-npm run getabi
-```
-
-### 编译得到bin
-
-```
-npm run getBin
+npm run compile
 ```
