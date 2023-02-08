@@ -2,19 +2,19 @@
 
 记录web3学习的过程，从小白开始
 
-- [区块链，为什么学习Web3要了解区块链？](https://github.com/lll618xxx/web3-notes/blob/master/blockChain/main.md)
+- [区块链，为什么学习Web3要了解区块链？](https://github.com/lll618xxx/web3-notes/blob/master/blockChain)
 
-- [基于以太坊的智能合约开发，HelloWorld版](https://github.com/lll618xxx/web3-notes/blob/master/smartContract/main.md)
+- [基于以太坊的智能合约开发，HelloWorld版](https://github.com/lll618xxx/web3-notes/blob/master/smartContract)
 
-- [合约之间的交互](https://github.com/lll618xxx/web3-notes/blob/master/contractInteract/main.md)
+- [合约之间的交互](https://github.com/lll618xxx/web3-notes/blob/master/contractInteract)
 
-- [基金资金的合约](https://github.com/lll618xxx/web3-notes/blob/master/contractInteract/main.md)
+- [基金资金的合约](https://github.com/lll618xxx/web3-notes/blob/master/contractInteract)
 
-- [solc本地编译sol文件以及ethers使用](https://github.com/lll618xxx/web3-notes/blob/master/compileLocalSolidity/main.md)
+- [solc本地编译sol文件以及ethers使用](https://github.com/lll618xxx/web3-notes/blob/master/compileLocalSolidity)
 
-- [web3简单的项目](https://github.com/lll618xxx/web3-notes/blob/master/web3Simple/main.md)
+- [web3简单的项目](https://github.com/lll618xxx/web3-notes/blob/master/web3Simple)
 
-- [测试币的获取](https://github.com/lll618xxx/web3-notes/blob/master/wallet/METAMASK.md)
+- [测试币的获取](https://github.com/lll618xxx/web3-notes/blob/master/wallet)
 
 ### 3个发展方向
 
