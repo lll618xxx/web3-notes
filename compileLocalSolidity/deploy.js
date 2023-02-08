@@ -16,6 +16,20 @@ async function main() {
         console.log('deploying...')
         const contract = await contractFactory.deploy()
         console.log('合约地址', contract.address)
+
+        // const nonce = await wallet.getTransactionCount()
+        // const tx = {
+        //     nonce,
+        //     gasPrice: 20000000000,
+        //     gasLimit: 1000000,
+        //     to: null,
+        //     value: 0,
+        //     data: '0x'+binary,
+        //     chainId: 1337
+        // }
+        // const sentTxResponse = await wallet.sendTransaction(tx)
+        // await sentTxResponse.wait(1)
+        // console.log(sentTxResponse)
     } catch (error) {
         console.log({error})
     }
