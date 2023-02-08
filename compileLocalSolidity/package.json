@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ethers": "^6.0.2",
+    "ethers": "^5.7.2",
     "fs-extra": "^11.1.0",
     "solc": "^0.8.18"
   }
