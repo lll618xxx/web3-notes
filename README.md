@@ -12,7 +12,9 @@
 
 - [solc本地编译sol文件以及ethers使用](https://github.com/lll618xxx/web3-notes/blob/master/compileLocalSolidity)
 
-- [web3简单的项目](https://github.com/lll618xxx/web3-notes/blob/master/web3Simple)
+- [Hardhat简单的Demo](https://github.com/lll618xxx/web3-notes/blob/master/hardhatDemo)
+
+- [Web3简单的项目](https://github.com/lll618xxx/web3-notes/blob/master/web3Simple)
 
 - [测试币的获取](https://github.com/lll618xxx/web3-notes/blob/master/wallet)
 
