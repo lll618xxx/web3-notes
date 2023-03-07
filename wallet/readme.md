@@ -1,6 +1,8 @@
 ### 获取以太币
 
-- [Goerli](https://goerlifaucet.com/)
+- [Goerli直接获取](https://goerlifaucet.com/)
+
+- [Goerli挖矿获取](https://goerli-faucet.pk910.de/)
 
 ### 将link转eth
 
